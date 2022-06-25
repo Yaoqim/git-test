@@ -7,6 +7,6 @@ public class GitTest {
         System.out.println("master打印");
         System.out.println("developer打印");
         System.out.println("push");
-        System.out.pringtln("远程库打印的pull");
+        System.out.print("远程库打印的pull");
     }
 }
