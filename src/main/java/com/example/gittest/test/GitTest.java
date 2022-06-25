@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("第三次提交打印!");
         System.out.println("master打印");
         System.out.println("developer打印");
+        System.out.println("push");
     }
 }
